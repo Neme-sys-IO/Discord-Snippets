@@ -1,9 +1,5 @@
 # Quest Spoof
-<div style="border: 2px solid #a3d9a5; border-radius: 8px; padding: 16px; background-color: #e8f5e9; color: #2e7d32; font-family: Arial, sans-serif;">
-  <strong style="font-size: 18px;">WORKING</strong>
-</div>
-
-
+![Status](https://img.shields.io/badge/Status-WORKING-brightgreen?style=for-the-badge)
 # DESCRIPTION
 This snippet will spoof your stream to fulfill the requirements of the quest and monitor your progress until completion.
 > [!NOTE]
