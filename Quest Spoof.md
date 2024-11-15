@@ -1,9 +1,13 @@
 # Quest Spoof
-> [!SUCCESS] WORKING
+<div style="border: 2px solid #a3d9a5; border-radius: 8px; padding: 16px; background-color: #e8f5e9; color: #2e7d32; font-family: Arial, sans-serif;">
+  <strong style="font-size: 18px;">WORKING</strong>
+</div>
+
+
 # DESCRIPTION
 This snippet will spoof your stream to fulfill the requirements of the quest and monitor your progress until completion.
-> [!NOTE] NOTE
-> Only works for `STREAM` type of quest.
+> [!NOTE]
+> Only works for `STREAM` type of quest.!
 # USAGE
 1. Accept a Quest.
 2. Join a VC. (If doesn't work, join with alt/friend)
