@@ -1,5 +1,5 @@
 # Discord Staff Guild Access Snippet
-
+![Status](https://img.shields.io/badge/Status-WORKING-brightgreen?style=for-the-badge)
 ## Overview
 
 This code snippet allows you to grant access to the Discord Staff Guild by updating the features of a guild. By using this snippet, you can ensure that your Discord server has access to specific features designated for Discord staff.
