@@ -1,5 +1,5 @@
 # Quest Spoof
-![Status](https://img.shields.io/badge/Status-WORKING-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-FAILED-red?style=for-the-badge)
 # DESCRIPTION
 This snippet will spoof your stream to fulfill the requirements of the quest and monitor your progress until completion.
 > [!NOTE]
